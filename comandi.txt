@@ -1,0 +1,5 @@
+!warn @utente motivo
+!warnlist @utente
+!ban @utente motivo
+!ticket motivo
+!ticketclose
